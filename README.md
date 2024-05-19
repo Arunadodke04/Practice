@@ -1,4 +1,4 @@
 # Practice
 This is my first Repository
 <br>
-Author - Aruna Dodke
+Author - Aruna Dodke (UIT RGPV Student)
